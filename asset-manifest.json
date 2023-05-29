@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bazar/static/css/main.ed8e59c2.css",
+    "main.js": "/Bazar/static/js/main.d62a9168.js",
+    "static/media/googleLogo.png": "/Bazar/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/Bazar/index.html",
+    "main.ed8e59c2.css.map": "/Bazar/static/css/main.ed8e59c2.css.map",
+    "main.d62a9168.js.map": "/Bazar/static/js/main.d62a9168.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed8e59c2.css",
+    "static/js/main.d62a9168.js"
+  ]
+}
