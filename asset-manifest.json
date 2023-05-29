@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Bazar/static/css/main.ed8e59c2.css",
-    "main.js": "/Bazar/static/js/main.c5dec5f7.js",
-    "static/media/googleLogo.png": "/Bazar/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
-    "index.html": "/Bazar/index.html",
-    "main.ed8e59c2.css.map": "/Bazar/static/css/main.ed8e59c2.css.map",
-    "main.c5dec5f7.js.map": "/Bazar/static/js/main.c5dec5f7.js.map"
+    "main.css": "./static/css/main.ed8e59c2.css",
+    "main.js": "./static/js/main.ea07bfb5.js",
+    "static/media/googleLogo.png": "./static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "./index.html",
+    "main.ed8e59c2.css.map": "./static/css/main.ed8e59c2.css.map",
+    "main.ea07bfb5.js.map": "./static/js/main.ea07bfb5.js.map"
   },
   "entrypoints": [
     "static/css/main.ed8e59c2.css",
-    "static/js/main.c5dec5f7.js"
+    "static/js/main.ea07bfb5.js"
   ]
 }
